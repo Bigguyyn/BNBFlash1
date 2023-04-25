@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Bigguyyn 
-widowmalay
-/
-pancake
-Public
-Fork your own copy of widowmalay/pancake
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-pancake/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol
-@widowmalay
-widowmalay Update IUniswapV1Exchange.sol
-Latest commit f4b73fe 3 days ago
- History
- 1 contributor
-189 lines (163 sloc)  3.92 KB
- 
-
 pragma solidity ^0.6.6;
 
 contract SimpleStorage {
@@ -213,17 +182,3 @@ contract arrayExample {
       return myArray;
   }
 }*/
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
